@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Viblog</title>
-    <link href="https://vizible.github.io/vizible.github.io/feed.xml" rel="self" />
-    <link href="https://vizible.github.io/vizible.github.io" />
-    <updated>2021-12-29T00:06:10+01:00</updated>
+    <link href="https://vizible.github.io/blog/feed.xml" rel="self" />
+    <link href="https://vizible.github.io/blog" />
+    <updated>2021-12-29T00:07:42+01:00</updated>
     <author>
         <name>Viktor Manweiler</name>
     </author>
-    <id>https://vizible.github.io/vizible.github.io</id>
+    <id>https://vizible.github.io/blog</id>
 
     <entry>
         <title>Welcome to my Blog</title>
         <author>
             <name>Viktor Manweiler</name>
         </author>
-        <link href="https://vizible.github.io/vizible.github.io/welcome-to-my-blog.html"/>
-        <id>https://vizible.github.io/vizible.github.io/welcome-to-my-blog.html</id>
+        <link href="https://vizible.github.io/blog/welcome-to-my-blog.html"/>
+        <id>https://vizible.github.io/blog/welcome-to-my-blog.html</id>
 
-        <updated>2021-12-29T00:06:10+01:00</updated>
+        <updated>2021-12-29T00:07:42+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
