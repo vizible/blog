@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Viblog",
+    "description": "",
+    "home_page_url": "https://vizible.github.io/vizible.github.io",
+    "feed_url": "https://vizible.github.io/vizible.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Viktor Manweiler"
+    },
+    "items": [
+        {
+            "id": "https://vizible.github.io/vizible.github.io/welcome-to-my-blog.html",
+            "url": "https://vizible.github.io/vizible.github.io/welcome-to-my-blog.html",
+            "title": "Welcome to my Blog",
+            "author": {
+                "name": "Viktor Manweiler"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-29T00:06:10+01:00",
+            "date_modified": "2021-12-29T00:06:10+01:00"
+        }
+    ]
+}
